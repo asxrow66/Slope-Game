@@ -1,9 +1,13 @@
 body {
     text-align: center;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    text-color: #212121;
 }
 
 a {
-    color: cornflowerblue;
+    color: ;
     text-decoration: none;
     font-style: italic;
 }
