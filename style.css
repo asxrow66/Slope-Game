@@ -1,3 +1,9 @@
 body {
     text-align: center;
 }
+
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+    font-style: italic;
+}
